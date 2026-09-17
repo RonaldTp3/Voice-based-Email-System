@@ -1,0 +1,7 @@
+Flask
+playsound
+PyAudio
+gTTS
+nltk
+openai-whisper
+SpeechRecognition
